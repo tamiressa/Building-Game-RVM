@@ -1,4 +1,5 @@
-# Building Game RVM 
+# LEGO - rastreio de mão e ambiente RA
+
 
 ## Resumo:
 Este projeto visa a criação de um jogo feito com o uso da realidade aumentada (RA),
